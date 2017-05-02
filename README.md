@@ -1,3 +1,3 @@
 # hello-world
 GitHub Tutorial
-Finishing GitHub Tutorial!
+GiTHub Tutorial Finished!
